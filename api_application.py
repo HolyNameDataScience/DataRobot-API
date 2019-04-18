@@ -1,8 +1,6 @@
 import pandas as pd
 import datarobot as dr
 
-__update__ = '12/18'
-
 
 # this class is used to manipulate input
 class DataPrepare(object):
